@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ايات_الطير.pdf",
+    "file": "sample_0.txt",
+    "chars": 10235,
+    "pages": 4
+  },
+  {
+    "name": "آيات_الشفاء_والسكينة.pdf",
+    "file": "sample_1.txt",
+    "chars": 45778,
+    "pages": 7
+  },
+  {
+    "name": "ما_هو_السحر.pdf",
+    "file": "sample_2.txt",
+    "chars": 6240,
+    "pages": 3
+  },
+  {
+    "name": "ايات_التنزيل.pdf",
+    "file": "sample_3.txt",
+    "chars": 2350,
+    "pages": 2
+  }
+]
