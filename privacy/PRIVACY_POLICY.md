@@ -49,6 +49,8 @@
 
 لا تُستخدم هذه الأذونات لجمع بياناتك أو مراقبة نشاطك أو مشاركتها مع أي طرف ثالث.
 
+يطلب التطبيق الإذن المناسب مرة واحدة فقط بعد موافقتك على السياسة عند التشغيل الأول، وبعد شاشة توضيحية، ولا يُعيد الطلب بعد ذلك. على أندرويد 14 وأعلى يُستخدم منتقي النظام دون إذن دائم.
+
 ## 5. خدمات الطرف الثالث
 
 - **Google Fonts** (`fonts.googleapis.com` / `fonts.gstatic.com`): لتحميل الخطوط (مثل Amiri) عند الحاجة وتخزينها مؤقتاً على جهازك.
@@ -131,6 +133,8 @@ All of this data stays on your device and is deleted when you uninstall the App 
 | `READ_MEDIA_IMAGES` / `READ_MEDIA_AUDIO` / `READ_MEDIA_VIDEO` / `ACCESS_MEDIA_LOCATION` | Required by the image/file picker libraries; used only when you actively choose an image or file. |
 
 These permissions are not used to collect your data, monitor your activity, or share anything with third parties.
+
+The app requests the appropriate permission once, after you accept this policy on first launch and after showing an explanation, and will not ask again. On Android 14 and above the system picker is used without a permanent permission.
 
 ## 5. Third-Party Services
 

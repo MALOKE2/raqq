@@ -43,6 +43,8 @@ All of this data stays on your device and is deleted when you uninstall the App 
 
 These permissions are not used to collect your data, monitor your activity, or share anything with third parties.
 
+The app requests the appropriate permission once, after you accept this policy on first launch and after showing an explanation, and will not ask again. On Android 14 and above the system picker is used without a permanent permission.
+
 ## 5. Third-Party Services
 
 - **Google Fonts** (`fonts.googleapis.com` / `fonts.gstatic.com`): used to load fonts (e.g. Amiri) when needed and cache them on your device.
