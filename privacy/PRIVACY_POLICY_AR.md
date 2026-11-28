@@ -74,7 +74,7 @@
 ## 10. التواصل مع المطوّر
 
 - حساب GitHub: [MALOKE2](https://github.com/MALOKE2)
-- البريد الإلكتروني: info@alraqyiraqi.iq
+- البريد الإلكتروني: zxftr4526@gmail.com
 
 ---
 

@@ -74,7 +74,7 @@ We may update this policy if the App's practices change. Any update will be publ
 ## 10. Contact the Developer
 
 - GitHub: [MALOKE2](https://github.com/MALOKE2)
-- Email: info@alraqyiraqi.iq
+- Email: zxftr4526@gmail.com
 
 ---
 
